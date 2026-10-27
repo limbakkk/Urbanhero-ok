@@ -1,0 +1,6 @@
+{
+  "name": "Urban Hero Training Center | Gimnasios en Sevilla",
+  "description": "Sede corporativa de Urban Hero Training Center en Sevilla. Descubre nuestros centros en El Pino y Sevilla Este. Entrena con nosotros y reserva 2 clases gratis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
